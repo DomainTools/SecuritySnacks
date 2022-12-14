@@ -1,0 +1,37 @@
+File Map:
+
+twitter-helpingscom:
+	AfterClickNew_ConsumerUICommons_4c68346f3fc7.css - Downloaded website resources.
+	AfterClick_ConsumerAsyncCommons_f5339c1f472f.css - Downloaded website resources.
+	After_Click_Challenge_e6dcc76c8eaf.css - Downloaded website resources.
+	AskingForEmail.PNG - Screenshot
+	Challenge_e6dcc76c8eaf.css - Downloaded website resources.
+	ConsumerAsyncCommons_f5339c1f472f.css - Downloaded website resources.
+	FromAd_WholeInsert4.js - Downloaded website resources.
+	ProcMonLogfile.PML - As it says on the tin.
+	RegshotResults.PNG - Screenshot
+	cleanReg.hivu - RegShot 1st
+	index.html - Downloaded website resources.
+	login.PNG - Screenshot
+	mail.php - Downloaded website resources.
+	newReg.hivu - RegShot 2nd
+	twitter-helpings.pcapng - Wireshark network capture.
+	username.php - Downloaded website resources.
+	~res-x64.txt - RegShot Diff
+
+twitterhelpers[.]com:
+	AfterClick.PNG
+	AfterClickNew_ConsumerUICommons_4c68346f3fc7.css - Downloaded website resources.
+	AfterTwitterCreds.PNG - Screenshot
+	Challenge_e6dcc76c8eaf.css - Downloaded website resources.
+	ConsumerAsyncCommons_f5339c1f472f.css - Downloaded website resources.
+	ProcMonLogfile.PML - As it says on the tin.
+	RegShotResult.PNG - Screenshot
+	SeconDDomainAfterReg.hivu - RegShot 2nd
+	SecondDomainReg.hivu - RegShot 1st
+	TwitterHelpers_Login.PNG - Screenshot
+	mail.php - Downloaded website resources.
+	twitterhelperscomcap.pcapng - Wireshark network capture.
+	username.php - Downloaded website resources.
+	wrong.php - Downloaded website resources.
+	~res-x64.txt - RegShot Diff

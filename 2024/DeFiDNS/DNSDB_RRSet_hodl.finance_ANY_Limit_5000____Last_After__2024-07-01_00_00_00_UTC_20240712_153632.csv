@@ -1,0 +1,6 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1698710499,1720742292,,,255,"hodl.finance.","NS","finance.","owen.ns.cloudflare.com."
+1698710499,1720742292,,,255,"hodl.finance.","NS","finance.","harmony.ns.cloudflare.com."
+,,1698667083,1720761601,4943,"hodl.finance.","NS","finance.","owen.ns.cloudflare.com."
+,,1698667083,1720761601,4943,"hodl.finance.","NS","finance.","harmony.ns.cloudflare.com."
+,,1719071201,1720756661,452,"hodl.finance.","SOA","hodl.finance.","harmony.ns.cloudflare.com. dns.cloudflare.com. 2344556897 10000 2400 604800 1800"

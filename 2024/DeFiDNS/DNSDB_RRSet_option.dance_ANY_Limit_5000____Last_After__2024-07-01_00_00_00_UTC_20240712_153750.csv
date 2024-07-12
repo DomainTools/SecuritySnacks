@@ -1,0 +1,11 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1621560959,1720742906,,,1125,"option.dance.","NS","dance.","anna.ns.cloudflare.com."
+1621560959,1720742906,,,1125,"option.dance.","NS","dance.","gabe.ns.cloudflare.com."
+,,1695817138,1720631380,264,"option.dance.","A","option.dance.","35.71.142.77"
+,,1695817138,1720631380,264,"option.dance.","A","option.dance.","52.223.52.2"
+,,1618224561,1720637566,3675,"option.dance.","NS","dance.","anna.ns.cloudflare.com."
+,,1618224561,1720637566,3675,"option.dance.","NS","dance.","gabe.ns.cloudflare.com."
+,,1618366383,1720631381,106,"option.dance.","NS","option.dance.","anna.ns.cloudflare.com."
+,,1618366383,1720631381,106,"option.dance.","NS","option.dance.","gabe.ns.cloudflare.com."
+,,1715274894,1720240499,112,"option.dance.","SOA","option.dance.","anna.ns.cloudflare.com. dns.cloudflare.com. 2340751969 10000 2400 604800 1800"
+,,1720320278,1720360181,2,"option.dance.","SOA","option.dance.","anna.ns.cloudflare.com. dns.cloudflare.com. 2345747151 10000 2400 604800 1800"

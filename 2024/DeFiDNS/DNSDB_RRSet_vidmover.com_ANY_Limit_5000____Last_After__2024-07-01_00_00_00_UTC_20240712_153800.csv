@@ -1,0 +1,10 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1700693421,1720651820,,,200,"vidmover.com.","NS","com.","ns63.domaincontrol.com."
+1700693421,1720651820,,,200,"vidmover.com.","NS","com.","ns64.domaincontrol.com."
+,,1701958536,1720734958,974,"vidmover.com.","A","vidmover.com.","13.248.213.45"
+,,1701958536,1720734958,974,"vidmover.com.","A","vidmover.com.","76.223.67.189"
+,,1700577632,1720734958,2229,"vidmover.com.","NS","com.","ns63.domaincontrol.com."
+,,1700577632,1720734958,2229,"vidmover.com.","NS","com.","ns64.domaincontrol.com."
+,,1700785637,1720734958,1007,"vidmover.com.","NS","vidmover.com.","ns63.domaincontrol.com."
+,,1700785637,1720734958,1007,"vidmover.com.","NS","vidmover.com.","ns64.domaincontrol.com."
+,,1701958536,1720734958,1634,"vidmover.com.","SOA","vidmover.com.","ns63.domaincontrol.com. dns.jomax.net. 2023120600 28800 7200 604800 600"

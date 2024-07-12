@@ -1,0 +1,13 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1707344501,1720738701,,,155,"dackieswap.xyz.","NS","xyz.","tess.ns.cloudflare.com."
+1707344501,1720738701,,,155,"dackieswap.xyz.","NS","xyz.","micah.ns.cloudflare.com."
+,,1707303399,1720731919,2337,"dackieswap.xyz.","A","dackieswap.xyz.","104.21.28.156"
+,,1707303399,1720731919,2337,"dackieswap.xyz.","A","dackieswap.xyz.","172.67.170.232"
+,,1707303399,1720741380,18518,"dackieswap.xyz.","NS","xyz.","tess.ns.cloudflare.com."
+,,1707303399,1720741380,18518,"dackieswap.xyz.","NS","xyz.","micah.ns.cloudflare.com."
+,,1709401311,1720364842,61,"dackieswap.xyz.","NS","dackieswap.xyz.","tess.ns.cloudflare.com."
+,,1709401311,1720364842,61,"dackieswap.xyz.","NS","dackieswap.xyz.","micah.ns.cloudflare.com."
+,,1717742668,1720701614,50,"dackieswap.xyz.","SOA","dackieswap.xyz.","micah.ns.cloudflare.com. dns.cloudflare.com. 2343018039 10000 2400 604800 1800"
+,,1707303414,1720747540,1162,"dackieswap.xyz.","AAAA","dackieswap.xyz.","2606:4700:3031::6815:1c9c"
+,,1707303414,1720747540,1162,"dackieswap.xyz.","AAAA","dackieswap.xyz.","2606:4700:3034::ac43:aae8"
+,,1707385207,1720736263,1451,"dackieswap.xyz.","HTTPS","dackieswap.xyz.","1 . alpn=\"h3,h2\" ipv4hint=104.21.28.156,172.67.170.232 ipv6hint=2606:4700:3031::6815:1c9c,2606:4700:3034::ac43:aae8"

@@ -1,0 +1,12 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1626130224,1720651820,,,983,"riskswap.com.","NS","com.","veda.ns.cloudflare.com."
+1626130224,1720651820,,,983,"riskswap.com.","NS","com.","jaime.ns.cloudflare.com."
+,,1636473803,1720752309,2281,"riskswap.com.","A","riskswap.com.","76.76.21.21"
+,,1626089692,1720731141,10213,"riskswap.com.","NS","com.","veda.ns.cloudflare.com."
+,,1626089692,1720731141,10213,"riskswap.com.","NS","com.","jaime.ns.cloudflare.com."
+,,1719595847,1720731139,51,"riskswap.com.","SOA","riskswap.com.","jaime.ns.cloudflare.com. dns.cloudflare.com. 2345080857 10000 2400 604800 1800"
+,,1626090904,1720597850,105,"riskswap.com.","MX","riskswap.com.","1 aspmx.l.google.com."
+,,1626090904,1720597850,105,"riskswap.com.","MX","riskswap.com.","5 alt1.aspmx.l.google.com."
+,,1626090904,1720597850,105,"riskswap.com.","MX","riskswap.com.","5 alt2.aspmx.l.google.com."
+,,1626090904,1720597850,105,"riskswap.com.","MX","riskswap.com.","10 alt3.aspmx.l.google.com."
+,,1626090904,1720597850,105,"riskswap.com.","MX","riskswap.com.","10 alt4.aspmx.l.google.com."

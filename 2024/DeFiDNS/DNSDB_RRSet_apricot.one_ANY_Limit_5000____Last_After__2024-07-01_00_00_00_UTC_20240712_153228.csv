@@ -1,0 +1,11 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1658103560,1720743389,,,716,"apricot.one.","NS","one.","jacob.ns.cloudflare.com."
+1658103560,1720743389,,,716,"apricot.one.","NS","one.","harlee.ns.cloudflare.com."
+,,1658151218,1720775012,9940,"apricot.one.","A","apricot.one.","104.21.14.63"
+,,1658151218,1720775012,9940,"apricot.one.","A","apricot.one.","172.67.158.33"
+,,1658069650,1720775077,40952,"apricot.one.","NS","one.","jacob.ns.cloudflare.com."
+,,1658069650,1720775077,40952,"apricot.one.","NS","one.","harlee.ns.cloudflare.com."
+,,1719484395,1720660891,39,"apricot.one.","SOA","apricot.one.","harlee.ns.cloudflare.com. dns.cloudflare.com. 2344957100 10000 2400 604800 1800"
+,,1658151286,1720750657,8047,"apricot.one.","AAAA","apricot.one.","2606:4700:3033::6815:e3f"
+,,1658151286,1720750657,8047,"apricot.one.","AAAA","apricot.one.","2606:4700:3035::ac43:9e21"
+,,1686260006,1720681139,352,"apricot.one.","HTTPS","apricot.one.","1 . alpn=\"h3,h2\" ipv4hint=104.21.14.63,172.67.158.33 ipv6hint=2606:4700:3033::6815:e3f,2606:4700:3035::ac43:9e21"

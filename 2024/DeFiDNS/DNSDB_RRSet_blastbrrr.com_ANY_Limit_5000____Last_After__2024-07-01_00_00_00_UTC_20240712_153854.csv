@@ -1,0 +1,9 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1711234218,1720738220,,,98,"blastbrrr.com.","NS","com.","ricardo.ns.cloudflare.com."
+1711234218,1720738220,,,98,"blastbrrr.com.","NS","com.","zariyah.ns.cloudflare.com."
+,,1711167098,1720750458,81,"blastbrrr.com.","A","blastbrrr.com.","104.21.88.173"
+,,1711167098,1720750458,81,"blastbrrr.com.","A","blastbrrr.com.","172.67.151.139"
+,,1711167097,1720750458,164,"blastbrrr.com.","NS","com.","ricardo.ns.cloudflare.com."
+,,1711167097,1720750458,164,"blastbrrr.com.","NS","com.","zariyah.ns.cloudflare.com."
+,,1711167098,1720576218,25,"blastbrrr.com.","AAAA","blastbrrr.com.","2606:4700:3034::ac43:978b"
+,,1711167098,1720576218,25,"blastbrrr.com.","AAAA","blastbrrr.com.","2606:4700:3036::6815:58ad"

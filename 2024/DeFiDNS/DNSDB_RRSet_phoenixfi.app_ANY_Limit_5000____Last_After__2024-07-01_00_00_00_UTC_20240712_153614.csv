@@ -1,0 +1,10 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1688469905,1720613012,,,369,"phoenixfi.app.","NS","app.","erin.ns.cloudflare.com."
+1688469905,1720613012,,,369,"phoenixfi.app.","NS","app.","watson.ns.cloudflare.com."
+,,1710805451,1720743781,160,"phoenixfi.app.","A","phoenixfi.app.","76.76.21.21"
+,,1688599588,1720743781,1283,"phoenixfi.app.","NS","app.","erin.ns.cloudflare.com."
+,,1688599588,1720743781,1283,"phoenixfi.app.","NS","app.","watson.ns.cloudflare.com."
+,,1688599589,1720571540,45,"phoenixfi.app.","NS","phoenixfi.app.","erin.ns.cloudflare.com."
+,,1688599589,1720571540,45,"phoenixfi.app.","NS","phoenixfi.app.","watson.ns.cloudflare.com."
+,,1719206544,1720052427,8,"phoenixfi.app.","SOA","phoenixfi.app.","erin.ns.cloudflare.com. dns.cloudflare.com. 2344692160 10000 2400 604800 1800"
+,,1720470094,1720743781,2,"phoenixfi.app.","SOA","phoenixfi.app.","erin.ns.cloudflare.com. dns.cloudflare.com. 2345955767 10000 2400 604800 1800"

@@ -1,0 +1,12 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1702421420,1720651820,,,191,"jibswap.com.","NS","com.","cory.ns.cloudflare.com."
+1702421420,1720651820,,,191,"jibswap.com.","NS","com.","gina.ns.cloudflare.com."
+,,1702397178,1720728274,351,"jibswap.com.","A","jibswap.com.","104.21.20.11"
+,,1702397178,1720728274,351,"jibswap.com.","A","jibswap.com.","172.67.190.196"
+,,1702391906,1720728274,930,"jibswap.com.","NS","com.","cory.ns.cloudflare.com."
+,,1702391906,1720728274,930,"jibswap.com.","NS","com.","gina.ns.cloudflare.com."
+,,1702478442,1720398671,61,"jibswap.com.","NS","jibswap.com.","cory.ns.cloudflare.com."
+,,1702478442,1720398671,61,"jibswap.com.","NS","jibswap.com.","gina.ns.cloudflare.com."
+,,1719582261,1720222849,14,"jibswap.com.","SOA","jibswap.com.","cory.ns.cloudflare.com. dns.cloudflare.com. 2344466459 10000 2400 604800 1800"
+,,1702560608,1720222849,111,"jibswap.com.","AAAA","jibswap.com.","2606:4700:3033::ac43:bec4"
+,,1702560608,1720222849,111,"jibswap.com.","AAAA","jibswap.com.","2606:4700:3036::6815:140b"

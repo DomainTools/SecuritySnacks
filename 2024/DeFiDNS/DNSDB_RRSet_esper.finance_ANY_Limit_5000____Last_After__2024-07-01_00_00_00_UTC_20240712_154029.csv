@@ -1,0 +1,11 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1686096090,1720742292,,,401,"esper.finance.","NS","finance.","ns-cloud-d1.googledomains.com."
+1686096090,1720742292,,,401,"esper.finance.","NS","finance.","ns-cloud-d2.googledomains.com."
+1686096090,1720742292,,,401,"esper.finance.","NS","finance.","ns-cloud-d3.googledomains.com."
+1686096090,1720742292,,,401,"esper.finance.","NS","finance.","ns-cloud-d4.googledomains.com."
+,,1689587199,1720753546,300,"esper.finance.","A","esper.finance.","35.71.142.77"
+,,1689587199,1720753546,300,"esper.finance.","A","esper.finance.","52.223.52.2"
+,,1686189159,1720753546,1381,"esper.finance.","NS","finance.","ns-cloud-d1.googledomains.com."
+,,1686189159,1720753546,1381,"esper.finance.","NS","finance.","ns-cloud-d2.googledomains.com."
+,,1686189159,1720753546,1381,"esper.finance.","NS","finance.","ns-cloud-d3.googledomains.com."
+,,1686189159,1720753546,1381,"esper.finance.","NS","finance.","ns-cloud-d4.googledomains.com."

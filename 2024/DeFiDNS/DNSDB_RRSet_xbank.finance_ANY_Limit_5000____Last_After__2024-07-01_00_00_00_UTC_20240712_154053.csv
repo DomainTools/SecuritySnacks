@@ -1,0 +1,12 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1644883645,1720742292,,,856,"xbank.finance.","NS","finance.","scott.ns.cloudflare.com."
+1644883645,1720742292,,,856,"xbank.finance.","NS","finance.","tricia.ns.cloudflare.com."
+,,1644899726,1720634947,1280,"xbank.finance.","A","xbank.finance.","104.21.33.74"
+,,1644899726,1720634947,1280,"xbank.finance.","A","xbank.finance.","172.67.159.253"
+,,1644813566,1720757019,68388,"xbank.finance.","NS","finance.","scott.ns.cloudflare.com."
+,,1644813566,1720757019,68388,"xbank.finance.","NS","finance.","tricia.ns.cloudflare.com."
+,,1645558319,1720757020,121,"xbank.finance.","NS","xbank.finance.","scott.ns.cloudflare.com."
+,,1645558319,1720757020,121,"xbank.finance.","NS","xbank.finance.","tricia.ns.cloudflare.com."
+,,1720195979,1720463177,4,"xbank.finance.","SOA","xbank.finance.","scott.ns.cloudflare.com. dns.cloudflare.com. 2345594621 10000 2400 604800 1800"
+,,1645126908,1720393669,205,"xbank.finance.","AAAA","xbank.finance.","2606:4700:3031::ac43:9ffd"
+,,1645126908,1720393669,205,"xbank.finance.","AAAA","xbank.finance.","2606:4700:3034::6815:214a"

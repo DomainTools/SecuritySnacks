@@ -1,0 +1,11 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1663884943,1720613012,,,652,"rvrs.app.","NS","app.","ns-cloud-a1.googledomains.com."
+1663884943,1720613012,,,652,"rvrs.app.","NS","app.","ns-cloud-a2.googledomains.com."
+1663884943,1720613012,,,652,"rvrs.app.","NS","app.","ns-cloud-a3.googledomains.com."
+1663884943,1720613012,,,652,"rvrs.app.","NS","app.","ns-cloud-a4.googledomains.com."
+,,1664359930,1720265827,375,"rvrs.app.","A","rvrs.app.","76.76.21.21"
+,,1664234023,1720265834,1152,"rvrs.app.","NS","app.","ns-cloud-a1.googledomains.com."
+,,1664234023,1720265834,1152,"rvrs.app.","NS","app.","ns-cloud-a2.googledomains.com."
+,,1664234023,1720265834,1152,"rvrs.app.","NS","app.","ns-cloud-a3.googledomains.com."
+,,1664234023,1720265834,1152,"rvrs.app.","NS","app.","ns-cloud-a4.googledomains.com."
+,,1714264204,1720265834,54,"rvrs.app.","SOA","rvrs.app.","ns-cloud-a1.googledomains.com. cloud-dns-hostmaster.google.com. 22 21600 3600 259200 300"

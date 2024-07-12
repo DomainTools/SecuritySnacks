@@ -1,0 +1,9 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1649629509,1720738701,,,806,"meow.xyz.","NS","xyz.","dns1.registrar-servers.com."
+1649629509,1720738701,,,806,"meow.xyz.","NS","xyz.","dns2.registrar-servers.com."
+,,1649783779,1720215831,538,"meow.xyz.","A","meow.xyz.","192.64.119.210"
+,,1649610124,1720424132,1157,"meow.xyz.","NS","xyz.","dns1.registrar-servers.com."
+,,1649610124,1720424132,1157,"meow.xyz.","NS","xyz.","dns2.registrar-servers.com."
+,,1649783779,1720215831,717,"meow.xyz.","NS","meow.xyz.","dns1.registrar-servers.com."
+,,1649783779,1720215831,717,"meow.xyz.","NS","meow.xyz.","dns2.registrar-servers.com."
+,,1650267976,1720424132,297,"meow.xyz.","SOA","meow.xyz.","dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1649423936 43200 3600 604800 3601"

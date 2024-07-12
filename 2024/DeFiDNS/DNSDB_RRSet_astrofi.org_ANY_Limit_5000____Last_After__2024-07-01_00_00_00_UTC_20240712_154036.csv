@@ -1,0 +1,7 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1677280442,1720739367,,,503,"astrofi.org.","NS","org.","veda.ns.cloudflare.com."
+1677280442,1720739367,,,503,"astrofi.org.","NS","org.","yichun.ns.cloudflare.com."
+,,1677256908,1720655659,2335,"astrofi.org.","NS","org.","veda.ns.cloudflare.com."
+,,1677256908,1720655659,2335,"astrofi.org.","NS","org.","yichun.ns.cloudflare.com."
+,,1679212101,1720655659,16,"astrofi.org.","NS","astrofi.org.","veda.ns.cloudflare.com."
+,,1679212101,1720655659,16,"astrofi.org.","NS","astrofi.org.","yichun.ns.cloudflare.com."

@@ -1,0 +1,13 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+1692921359,1720742292,,,322,"ratio.finance.","NS","finance.","dns1.p01.nsone.net."
+1692921359,1720742292,,,322,"ratio.finance.","NS","finance.","dns2.p01.nsone.net."
+1692921359,1720742292,,,322,"ratio.finance.","NS","finance.","dns3.p01.nsone.net."
+1692921359,1720742292,,,322,"ratio.finance.","NS","finance.","dns4.p01.nsone.net."
+,,1696304988,1720679866,1007,"ratio.finance.","A","ratio.finance.","99.83.190.102"
+,,1692917763,1720722659,12748,"ratio.finance.","NS","finance.","dns1.p01.nsone.net."
+,,1692917763,1720722659,12748,"ratio.finance.","NS","finance.","dns2.p01.nsone.net."
+,,1692917763,1720722659,12748,"ratio.finance.","NS","finance.","dns3.p01.nsone.net."
+,,1692917763,1720722659,12748,"ratio.finance.","NS","finance.","dns4.p01.nsone.net."
+,,1630084669,1720448881,4266,"ratio.finance.","CNAME","ratio.finance.","proxy-ssl.webflow.com."
+,,1692262868,1720754091,49309,"ratio.finance.","SOA","ratio.finance.","dns1.p01.nsone.net. domains+netlify.netlify.com. 1692210382 43200 7200 1209600 3600"
+,,1699405392,1720366873,9,"ratio.finance.","TXT","ratio.finance.","\"v=spf1 include:_spf.google.com ~all\""

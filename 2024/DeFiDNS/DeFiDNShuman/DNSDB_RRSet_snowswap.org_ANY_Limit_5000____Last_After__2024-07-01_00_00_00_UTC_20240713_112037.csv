@@ -1,0 +1,10 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2021-05-21 00:03:08","2024-07-11 23:09:27",,,1123,"snowswap.org.","NS","org.","ns-cloud-b1.googledomains.com."
+"2021-05-21 00:03:08","2024-07-11 23:09:27",,,1123,"snowswap.org.","NS","org.","ns-cloud-b2.googledomains.com."
+"2021-05-21 00:03:08","2024-07-11 23:09:27",,,1123,"snowswap.org.","NS","org.","ns-cloud-b3.googledomains.com."
+"2021-05-21 00:03:08","2024-07-11 23:09:27",,,1123,"snowswap.org.","NS","org.","ns-cloud-b4.googledomains.com."
+,,"2020-09-15 02:01:46","2024-07-05 23:45:03",9063,"snowswap.org.","A","snowswap.org.","35.244.173.47"
+,,"2020-09-14 13:04:09","2024-07-05 23:45:03",28786,"snowswap.org.","NS","org.","ns-cloud-b1.googledomains.com."
+,,"2020-09-14 13:04:09","2024-07-05 23:45:03",28786,"snowswap.org.","NS","org.","ns-cloud-b2.googledomains.com."
+,,"2020-09-14 13:04:09","2024-07-05 23:45:03",28786,"snowswap.org.","NS","org.","ns-cloud-b3.googledomains.com."
+,,"2020-09-14 13:04:09","2024-07-05 23:45:03",28786,"snowswap.org.","NS","org.","ns-cloud-b4.googledomains.com."

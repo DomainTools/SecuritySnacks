@@ -1,0 +1,10 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2023-07-04 11:25:05","2024-07-10 12:03:32",,,369,"phoenixfi.app.","NS","app.","erin.ns.cloudflare.com."
+"2023-07-04 11:25:05","2024-07-10 12:03:32",,,369,"phoenixfi.app.","NS","app.","watson.ns.cloudflare.com."
+,,"2024-03-18 23:44:11","2024-07-12 02:14:18",164,"phoenixfi.app.","A","phoenixfi.app.","76.76.21.21"
+,,"2023-07-05 23:26:28","2024-07-12 22:11:09",1296,"phoenixfi.app.","NS","app.","erin.ns.cloudflare.com."
+,,"2023-07-05 23:26:28","2024-07-12 22:11:09",1296,"phoenixfi.app.","NS","app.","watson.ns.cloudflare.com."
+,,"2023-07-05 23:26:29","2024-07-10 00:32:20",45,"phoenixfi.app.","NS","phoenixfi.app.","erin.ns.cloudflare.com."
+,,"2023-07-05 23:26:29","2024-07-10 00:32:20",45,"phoenixfi.app.","NS","phoenixfi.app.","watson.ns.cloudflare.com."
+,,"2024-06-24 05:22:24","2024-07-04 00:20:27",8,"phoenixfi.app.","SOA","phoenixfi.app.","erin.ns.cloudflare.com. dns.cloudflare.com. 2344692160 10000 2400 604800 1800"
+,,"2024-07-08 20:21:34","2024-07-12 00:23:01",5,"phoenixfi.app.","SOA","phoenixfi.app.","erin.ns.cloudflare.com. dns.cloudflare.com. 2345955767 10000 2400 604800 1800"

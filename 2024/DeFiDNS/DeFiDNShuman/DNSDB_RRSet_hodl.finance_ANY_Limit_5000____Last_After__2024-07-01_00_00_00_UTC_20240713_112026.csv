@@ -1,0 +1,6 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2023-10-31 00:01:39","2024-07-11 23:58:12",,,255,"hodl.finance.","NS","finance.","owen.ns.cloudflare.com."
+"2023-10-31 00:01:39","2024-07-11 23:58:12",,,255,"hodl.finance.","NS","finance.","harmony.ns.cloudflare.com."
+,,"2023-10-30 11:58:03","2024-07-12 19:57:46",4950,"hodl.finance.","NS","finance.","owen.ns.cloudflare.com."
+,,"2023-10-30 11:58:03","2024-07-12 19:57:46",4950,"hodl.finance.","NS","finance.","harmony.ns.cloudflare.com."
+,,"2024-06-22 15:46:41","2024-07-12 19:57:46",461,"hodl.finance.","SOA","hodl.finance.","harmony.ns.cloudflare.com. dns.cloudflare.com. 2344556897 10000 2400 604800 1800"

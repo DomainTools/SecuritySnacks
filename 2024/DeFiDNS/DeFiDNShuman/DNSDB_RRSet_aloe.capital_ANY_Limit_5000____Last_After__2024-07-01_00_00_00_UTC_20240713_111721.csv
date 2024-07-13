@@ -1,0 +1,11 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2021-05-21 00:50:11","2024-07-11 23:57:44",,,1125,"aloe.capital.","NS","capital.","bingo.ns.cloudflare.com."
+"2021-05-21 00:50:11","2024-07-11 23:57:44",,,1125,"aloe.capital.","NS","capital.","khalid.ns.cloudflare.com."
+,,"2023-11-29 08:27:33","2024-07-12 21:07:20",1426,"aloe.capital.","A","aloe.capital.","35.71.142.77"
+,,"2023-11-29 08:27:33","2024-07-12 21:07:20",1426,"aloe.capital.","A","aloe.capital.","52.223.52.2"
+,,"2021-05-05 13:00:21","2024-07-12 17:08:52",421466,"aloe.capital.","NS","capital.","bingo.ns.cloudflare.com."
+,,"2021-05-05 13:00:21","2024-07-12 17:08:52",421466,"aloe.capital.","NS","capital.","khalid.ns.cloudflare.com."
+,,"2021-08-04 13:36:51","2024-07-12 19:24:43",4770,"aloe.capital.","NS","aloe.capital.","bingo.ns.cloudflare.com."
+,,"2021-08-04 13:36:51","2024-07-12 19:24:43",4770,"aloe.capital.","NS","aloe.capital.","khalid.ns.cloudflare.com."
+,,"2024-06-25 22:10:07","2024-07-11 20:34:30",85519,"aloe.capital.","SOA","aloe.capital.","bingo.ns.cloudflare.com. dns.cloudflare.com. 2344816538 10000 2400 604800 1800"
+,,"2024-07-11 23:16:42","2024-07-12 14:33:23",8,"aloe.capital.","SOA","aloe.capital.","bingo.ns.cloudflare.com. dns.cloudflare.com. 2346221846 10000 2400 604800 1800"

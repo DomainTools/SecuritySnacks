@@ -1,0 +1,11 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2021-05-21 01:35:59","2024-07-12 00:08:26",,,1125,"option.dance.","NS","dance.","anna.ns.cloudflare.com."
+"2021-05-21 01:35:59","2024-07-12 00:08:26",,,1125,"option.dance.","NS","dance.","gabe.ns.cloudflare.com."
+,,"2023-09-27 12:18:58","2024-07-13 06:09:47",264,"option.dance.","A","option.dance.","35.71.142.77"
+,,"2023-09-27 12:18:58","2024-07-13 06:09:47",264,"option.dance.","A","option.dance.","52.223.52.2"
+,,"2021-04-12 10:49:21","2024-07-13 06:09:47",3676,"option.dance.","NS","dance.","anna.ns.cloudflare.com."
+,,"2021-04-12 10:49:21","2024-07-13 06:09:47",3676,"option.dance.","NS","dance.","gabe.ns.cloudflare.com."
+,,"2021-04-14 02:13:03","2024-07-10 17:09:41",106,"option.dance.","NS","option.dance.","anna.ns.cloudflare.com."
+,,"2021-04-14 02:13:03","2024-07-10 17:09:41",106,"option.dance.","NS","option.dance.","gabe.ns.cloudflare.com."
+,,"2024-05-09 17:14:54","2024-07-06 04:34:59",112,"option.dance.","SOA","option.dance.","anna.ns.cloudflare.com. dns.cloudflare.com. 2340751969 10000 2400 604800 1800"
+,,"2024-07-07 02:44:38","2024-07-07 13:49:41",2,"option.dance.","SOA","option.dance.","anna.ns.cloudflare.com. dns.cloudflare.com. 2345747151 10000 2400 604800 1800"

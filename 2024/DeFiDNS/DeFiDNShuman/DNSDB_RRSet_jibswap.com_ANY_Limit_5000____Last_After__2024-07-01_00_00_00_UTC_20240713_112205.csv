@@ -1,0 +1,12 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2023-12-12 22:50:20","2024-07-10 22:50:20",,,191,"jibswap.com.","NS","com.","cory.ns.cloudflare.com."
+"2023-12-12 22:50:20","2024-07-10 22:50:20",,,191,"jibswap.com.","NS","com.","gina.ns.cloudflare.com."
+,,"2023-12-12 16:06:18","2024-07-13 00:53:56",352,"jibswap.com.","A","jibswap.com.","104.21.20.11"
+,,"2023-12-12 16:06:18","2024-07-13 00:53:56",352,"jibswap.com.","A","jibswap.com.","172.67.190.196"
+,,"2023-12-12 14:38:26","2024-07-13 00:53:56",930,"jibswap.com.","NS","com.","cory.ns.cloudflare.com."
+,,"2023-12-12 14:38:26","2024-07-13 00:53:56",930,"jibswap.com.","NS","com.","gina.ns.cloudflare.com."
+,,"2023-12-13 14:40:42","2024-07-08 00:31:11",61,"jibswap.com.","NS","jibswap.com.","cory.ns.cloudflare.com."
+,,"2023-12-13 14:40:42","2024-07-08 00:31:11",61,"jibswap.com.","NS","jibswap.com.","gina.ns.cloudflare.com."
+,,"2024-06-28 13:44:21","2024-07-05 23:40:49",14,"jibswap.com.","SOA","jibswap.com.","cory.ns.cloudflare.com. dns.cloudflare.com. 2344466459 10000 2400 604800 1800"
+,,"2023-12-14 13:30:08","2024-07-05 23:40:49",111,"jibswap.com.","AAAA","jibswap.com.","2606:4700:3033::ac43:bec4"
+,,"2023-12-14 13:30:08","2024-07-05 23:40:49",111,"jibswap.com.","AAAA","jibswap.com.","2606:4700:3036::6815:140b"

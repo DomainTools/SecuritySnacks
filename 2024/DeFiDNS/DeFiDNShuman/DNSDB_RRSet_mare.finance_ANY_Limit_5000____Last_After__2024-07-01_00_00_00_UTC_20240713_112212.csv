@@ -1,0 +1,13 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2022-12-28 00:07:43","2024-07-11 23:58:12",,,562,"mare.finance.","NS","finance.","macy.ns.cloudflare.com."
+"2022-12-28 00:07:43","2024-07-11 23:58:12",,,562,"mare.finance.","NS","finance.","mustafa.ns.cloudflare.com."
+,,"2023-03-17 16:49:24","2024-07-12 05:27:49",2115,"mare.finance.","A","mare.finance.","104.26.2.29"
+,,"2023-03-17 16:49:24","2024-07-12 05:27:49",2115,"mare.finance.","A","mare.finance.","104.26.3.29"
+,,"2023-03-17 16:49:24","2024-07-12 05:27:49",2115,"mare.finance.","A","mare.finance.","172.67.70.241"
+,,"2023-04-03 15:00:00","2024-07-10 13:54:59",2102,"mare.finance.","A","mare.finance.","188.114.98.229"
+,,"2023-04-03 15:00:00","2024-07-10 13:54:59",2102,"mare.finance.","A","mare.finance.","188.114.99.229"
+,,"2022-12-27 21:18:58","2024-07-12 07:24:46",53276,"mare.finance.","NS","finance.","macy.ns.cloudflare.com."
+,,"2022-12-27 21:18:58","2024-07-12 07:24:46",53276,"mare.finance.","NS","finance.","mustafa.ns.cloudflare.com."
+,,"2024-06-21 02:15:01","2024-07-05 22:38:14",11,"mare.finance.","SOA","mare.finance.","macy.ns.cloudflare.com. dns.cloudflare.com. 2343652851 10000 2400 604800 1800"
+,,"2023-04-24 12:56:05","2024-07-10 13:54:55",432,"mare.finance.","AAAA","mare.finance.","2a06:98c1:3122:e000::5"
+,,"2023-04-24 12:56:05","2024-07-10 13:54:55",432,"mare.finance.","AAAA","mare.finance.","2a06:98c1:3123:e000::5"

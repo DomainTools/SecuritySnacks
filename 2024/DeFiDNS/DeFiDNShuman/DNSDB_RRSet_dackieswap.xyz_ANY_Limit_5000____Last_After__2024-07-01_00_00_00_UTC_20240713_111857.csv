@@ -1,0 +1,13 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2024-02-07 22:21:41","2024-07-11 22:58:21",,,155,"dackieswap.xyz.","NS","xyz.","tess.ns.cloudflare.com."
+"2024-02-07 22:21:41","2024-07-11 22:58:21",,,155,"dackieswap.xyz.","NS","xyz.","micah.ns.cloudflare.com."
+,,"2024-02-07 10:56:39","2024-07-12 20:09:43",2337,"dackieswap.xyz.","A","dackieswap.xyz.","104.21.28.156"
+,,"2024-02-07 10:56:39","2024-07-12 20:09:43",2337,"dackieswap.xyz.","A","dackieswap.xyz.","172.67.170.232"
+,,"2024-02-07 10:56:39","2024-07-12 21:04:49",18523,"dackieswap.xyz.","NS","xyz.","tess.ns.cloudflare.com."
+,,"2024-02-07 10:56:39","2024-07-12 21:04:49",18523,"dackieswap.xyz.","NS","xyz.","micah.ns.cloudflare.com."
+,,"2024-03-02 17:41:51","2024-07-07 15:07:22",61,"dackieswap.xyz.","NS","dackieswap.xyz.","tess.ns.cloudflare.com."
+,,"2024-03-02 17:41:51","2024-07-07 15:07:22",61,"dackieswap.xyz.","NS","dackieswap.xyz.","micah.ns.cloudflare.com."
+,,"2024-06-07 06:44:28","2024-07-11 12:40:14",50,"dackieswap.xyz.","SOA","dackieswap.xyz.","micah.ns.cloudflare.com. dns.cloudflare.com. 2343018039 10000 2400 604800 1800"
+,,"2024-02-07 10:56:54","2024-07-13 08:44:05",1166,"dackieswap.xyz.","AAAA","dackieswap.xyz.","2606:4700:3031::6815:1c9c"
+,,"2024-02-07 10:56:54","2024-07-13 08:44:05",1166,"dackieswap.xyz.","AAAA","dackieswap.xyz.","2606:4700:3034::ac43:aae8"
+,,"2024-02-08 09:40:07","2024-07-12 20:09:42",1454,"dackieswap.xyz.","HTTPS","dackieswap.xyz.","1 . alpn=\"h3,h2\" ipv4hint=104.21.28.156,172.67.170.232 ipv6hint=2606:4700:3031::6815:1c9c,2606:4700:3034::ac43:aae8"

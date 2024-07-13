@@ -1,0 +1,13 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2023-12-24 00:07:40","2024-07-12 00:08:40",,,201,"d8x.exchange.","NS","exchange.","diva.ns.cloudflare.com."
+"2023-12-24 00:07:40","2024-07-12 00:08:40",,,201,"d8x.exchange.","NS","exchange.","ishaan.ns.cloudflare.com."
+,,"2023-12-23 08:39:59","2024-07-12 13:09:15",808,"d8x.exchange.","A","d8x.exchange.","172.66.44.133"
+,,"2023-12-23 08:39:59","2024-07-12 13:09:15",808,"d8x.exchange.","A","d8x.exchange.","172.66.47.123"
+,,"2023-12-23 02:41:10","2024-07-12 13:42:02",8262,"d8x.exchange.","NS","exchange.","diva.ns.cloudflare.com."
+,,"2023-12-23 02:41:10","2024-07-12 13:42:02",8262,"d8x.exchange.","NS","exchange.","ishaan.ns.cloudflare.com."
+,,"2023-12-23 02:41:46","2024-07-01 14:56:20",42,"d8x.exchange.","NS","d8x.exchange.","diva.ns.cloudflare.com."
+,,"2023-12-23 02:41:46","2024-07-01 14:56:20",42,"d8x.exchange.","NS","d8x.exchange.","ishaan.ns.cloudflare.com."
+,,"2024-07-01 02:06:06","2024-07-11 13:44:02",16,"d8x.exchange.","SOA","d8x.exchange.","diva.ns.cloudflare.com. dns.cloudflare.com. 2345160894 10000 2400 604800 1800"
+,,"2023-12-23 08:39:34","2024-07-12 13:42:02",197,"d8x.exchange.","AAAA","d8x.exchange.","2606:4700:310c::ac42:2c85"
+,,"2023-12-23 08:39:34","2024-07-12 13:42:02",197,"d8x.exchange.","AAAA","d8x.exchange.","2606:4700:310c::ac42:2f7b"
+,,"2024-01-08 17:23:07","2024-07-05 01:05:14",172,"d8x.exchange.","HTTPS","d8x.exchange.","1 . alpn=\"h3,h2\" ipv4hint=172.66.44.133,172.66.47.123 ipv6hint=2606:4700:310c::ac42:2c85,2606:4700:310c::ac42:2f7b"

@@ -1,0 +1,7 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2023-02-24 23:14:02","2024-07-11 23:09:27",,,503,"astrofi.org.","NS","org.","veda.ns.cloudflare.com."
+"2023-02-24 23:14:02","2024-07-11 23:09:27",,,503,"astrofi.org.","NS","org.","yichun.ns.cloudflare.com."
+,,"2023-02-24 16:41:48","2024-07-10 23:54:19",2335,"astrofi.org.","NS","org.","veda.ns.cloudflare.com."
+,,"2023-02-24 16:41:48","2024-07-10 23:54:19",2335,"astrofi.org.","NS","org.","yichun.ns.cloudflare.com."
+,,"2023-03-19 07:48:21","2024-07-10 23:54:19",16,"astrofi.org.","NS","astrofi.org.","veda.ns.cloudflare.com."
+,,"2023-03-19 07:48:21","2024-07-10 23:54:19",16,"astrofi.org.","NS","astrofi.org.","yichun.ns.cloudflare.com."

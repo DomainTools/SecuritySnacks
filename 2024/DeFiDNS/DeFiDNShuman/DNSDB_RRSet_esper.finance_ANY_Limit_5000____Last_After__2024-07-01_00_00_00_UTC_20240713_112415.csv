@@ -1,0 +1,11 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2023-06-07 00:01:30","2024-07-11 23:58:12",,,401,"esper.finance.","NS","finance.","ns-cloud-d1.googledomains.com."
+"2023-06-07 00:01:30","2024-07-11 23:58:12",,,401,"esper.finance.","NS","finance.","ns-cloud-d2.googledomains.com."
+"2023-06-07 00:01:30","2024-07-11 23:58:12",,,401,"esper.finance.","NS","finance.","ns-cloud-d3.googledomains.com."
+"2023-06-07 00:01:30","2024-07-11 23:58:12",,,401,"esper.finance.","NS","finance.","ns-cloud-d4.googledomains.com."
+,,"2023-07-17 09:46:39","2024-07-12 03:05:46",301,"esper.finance.","A","esper.finance.","35.71.142.77"
+,,"2023-07-17 09:46:39","2024-07-12 03:05:46",301,"esper.finance.","A","esper.finance.","52.223.52.2"
+,,"2023-06-08 01:52:39","2024-07-12 03:05:46",1382,"esper.finance.","NS","finance.","ns-cloud-d1.googledomains.com."
+,,"2023-06-08 01:52:39","2024-07-12 03:05:46",1382,"esper.finance.","NS","finance.","ns-cloud-d2.googledomains.com."
+,,"2023-06-08 01:52:39","2024-07-12 03:05:46",1382,"esper.finance.","NS","finance.","ns-cloud-d3.googledomains.com."
+,,"2023-06-08 01:52:39","2024-07-12 03:05:46",1382,"esper.finance.","NS","finance.","ns-cloud-d4.googledomains.com."

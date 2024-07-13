@@ -1,0 +1,10 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+"2019-12-01 23:47:00","2024-07-11 23:09:27",,,1139,"litecoin.org.","NS","org.","isla.ns.cloudflare.com."
+"2019-12-01 23:47:00","2024-07-11 23:09:27",,,1139,"litecoin.org.","NS","org.","paul.ns.cloudflare.com."
+,,"2024-03-10 21:41:42","2024-07-12 18:16:18",4226,"litecoin.org.","A","litecoin.org.","104.26.14.119"
+,,"2024-03-10 21:41:42","2024-07-12 18:16:18",4226,"litecoin.org.","A","litecoin.org.","104.26.15.119"
+,,"2024-03-10 21:41:42","2024-07-12 18:16:18",4226,"litecoin.org.","A","litecoin.org.","172.67.68.21"
+,,"2013-06-25 06:46:59","2024-07-12 14:23:47",1242760,"litecoin.org.","NS","org.","isla.ns.cloudflare.com."
+,,"2013-06-25 06:46:59","2024-07-12 14:23:47",1242760,"litecoin.org.","NS","org.","paul.ns.cloudflare.com."
+,,"2024-06-26 05:29:29","2024-07-12 13:08:27",353,"litecoin.org.","SOA","litecoin.org.","isla.ns.cloudflare.com. dns.cloudflare.com. 2344862014 10000 2400 604800 1800"
+,,"2024-03-10 21:33:35","2024-07-13 07:29:12",2459,"litecoin.org.","HTTPS","litecoin.org.","1 . alpn=\"h2\" ipv4hint=104.26.14.119,104.26.15.119,172.67.68.21"

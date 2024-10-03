@@ -1,0 +1,12 @@
+zone_time_first,zone_time_last,time_first,time_last,count,rrname,rrtype,bailiwick,rdata
+,,1727161247,1727161247,1,"paper-blue-hero.top.","A","paper-blue-hero.top.","135.181.203.1"
+,,1727161237,1727161237,1,"paper-blue-hero.top.","NS","top.","ns1.dnsowl.com."
+,,1727161237,1727161237,1,"paper-blue-hero.top.","NS","top.","ns2.dnsowl.com."
+,,1727161237,1727161237,1,"paper-blue-hero.top.","NS","top.","ns3.dnsowl.com."
+,,1727161247,1727161247,1,"paper-blue-hero.top.","NS","paper-blue-hero.top.","ns1.dnsowl.com."
+,,1727161247,1727161247,1,"paper-blue-hero.top.","NS","paper-blue-hero.top.","ns2.dnsowl.com."
+,,1727161247,1727161247,1,"paper-blue-hero.top.","NS","paper-blue-hero.top.","ns3.dnsowl.com."
+,,1727161237,1727161237,1,"paper-blue-hero.top.","SOA","paper-blue-hero.top.","ns1.dnsowl.com. hostmaster.dnsowl.com. 1727161012 7200 1800 1209600 600"
+,,1727164277,1727164277,1,"paper-blue-hero.top.","SOA","paper-blue-hero.top.","ns1.dnsowl.com. hostmaster.dnsowl.com. 1727164007 7200 1800 1209600 600"
+,,1727168804,1727168804,1,"paper-blue-hero.top.","SOA","paper-blue-hero.top.","ns1.dnsowl.com. hostmaster.dnsowl.com. 1727168530 7200 1800 1209600 600"
+,,1727206578,1727206578,1,"paper-blue-hero.top.","SOA","paper-blue-hero.top.","ns1.dnsowl.com. hostmaster.dnsowl.com. 1727206310 7200 1800 1209600 600"

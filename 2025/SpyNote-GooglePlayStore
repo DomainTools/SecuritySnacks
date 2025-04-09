@@ -1,0 +1,148 @@
+Deceptive websites hosted on newly registered domains are being used to deliver AndroidOS SpyNote malware. These sites mimic the Google Chrome install page on the Google Play Store to lure victims into downloading SpyNote, a potent Android remote access trojan (RAT) used for surveillance, data exfiltration, and remote control.
+
+The original investigation can be found at https://dti.domaintools.com/Newly-Registered-Domains-Distributing-SpyNote-Malware
+
+IOC Domains
+
+pknby[.]top
+jygst[.]top
+dacmj[.]top
+mkstq[.]top
+sakiw[.]top
+fdtya[.]top
+hgcks[.]top
+npkms[.]top
+kmyjh[.]top
+kyudfsaugsda[.]top
+bafanglaicai888[.]top
+
+
+Associated IP Addresses
+
+45.76.182[.]154
+66.42.63[.]74
+194.102.104[.]79
+156.244.19[.]63
+
+
+SpyNote C2s
+
+mskisdakw[.]top
+fsdlaowaa[.]top
+66.42.63[.]74
+66.42.63[.]74:8282
+
+
+SpyNote APK Droppers - AndroidOS Malware Sha256
+
+https[:]//www.kmyjh[.]top/001.apk - d36ef38009dab4be287978190f824245d40bd2b6b6b101ba5fe37bff80662cf6
+https[:]//www.kmyjh[.]top/002.apk - f42daefe546b9079bab9fac2f17311e96eb3f0d2ca3af01867311efac2b8e757
+https[:]//www.kmyjh[.]top/003.apk - 19cebeebdbd950ea24e4d3a52bfde6e570a9ac29d31e97cb8c01894c4fa9014b
+https[:]//www.kmyjh[.]top/004.apk - fef95170930e90f28982d70f399b12fd1bf59acab7c041091f70cf16ca6ecbac
+https[:]//www.kmyjh[.]top/005.apk - 47e16f032d879cc27592f77230c9f6363e7929a03f3aa60fb409ee1f08bcb773
+https[:]//kmyjh[.]top/app-release.apk - 3aa4fac350bc2fad58360a1864fae7db417e4b85b921caa98b67c9235ef0a49c
+https[:]//www.kmyjh[.]top/LIVE線上直播.apk - 482eb4aa6dc6f873063b7b6b5378bd052298cc6f8e60b6a5ddc9beba56d0b05f
+
+
+SpyNote APK Files - SHA256 hash
+
+abc - cada4004137937def9f2a8f6526e012f6cb7dc0f7020a4976635c7071c82beaf, 16bb93bf8e92fd97fd68bca37d1cc1634785ad5a165f6c755dad74f5a0a0d210, 2b68d736f39741c6ab7eea939174e72a2f85fa105f3f2585b853a4fb72e605ee, 115853b1822c373672d841ac802322c7e2401c7ba75f73e0553d9f897e91e4d4
+base.apk - c55ce2239e6c528dac9f0e2337d778e384e8bfb8af8467fe75f65e79e6bce1fe, cfb2dac2d9892e916a8b3bf2de604d7d9f8c670810ebeb9c1f9626aa8ab4e453, 3fb083a248e44dce1aa67926d0fe42542822c57e19921cb566e1e85a5284dde2
+
+
+
+SpyNote C2 Endpoints (Nonexhaustive)
+
+getRTCURL()
+> rtmp[:]//mskisdakw[.]top:1935/live/
+> rtmp[:]//fsdlaowaa[.]top:1935/live/
+
+getSURL()
+> ws[:]//mskisdakw[.]top:8282
+> ws[:]//fsdlaowaa[.]top:8282
+
+getWURL()
+> http[:]//mskisdakw[.]top
+> http[:]//fsdlaowaa[.]top
+
+Sample of SpyNote functions that retrieve the URL value and append endpoints:
+
+reportAlertWindow()
+> getWURL() append /app/alertWindowSearch
+
+saveApps()
+> getWURL() append /app/saveApps
+
+saveContacts()
+> getWURL() append /app/saveContacts
+
+saveDevice()
+> getWURL() append /app/saveDevice
+
+saveSms()
+> getWURL() append /app/saveDevice
+
+saveUnlockInfo()
+> getWURL() append /app/saveUnlockInfo
+
+
+AndroidManifest.xml Permission List
+
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+<uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE"/>
+<uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+<uses-permission android:name="android.permission.BIND_DEVICE_ADMIN"/>
+<uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+<uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+<uses-feature android:name="android.hardware.camera" android:required="false"/>
+<uses-feature android:name="android.hardware.telephony" android:required="false"/>
+<uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+<uses-permission android:name="android.permission.READ_SMS"/>
+<uses-permission android:name="android.permission.SEND_SMS"/>
+<uses-permission android:name="android.permission.VIBRATE"/>
+<uses-permission android:name="android.permission.WRITE_SMS"/>
+<uses-permission android:name="android.permission.RECEIVE_SMS"/>
+<uses-permission android:name="android.permission.CAMERA"/>
+<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+<uses-permission android:name="android.permission.WAKE_LOCK"/>
+<uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+<uses-permission android:name="android.permission.RESTART_PACKAGES"/>
+<uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+<uses-permission android:name="android.permission.READ_CONTACTS"/>
+<uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+<uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+<uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+<uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+<uses-permission android:name="android.permission.READ_MEDIA_AUDIO"/>
+<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+<uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES"/>
+<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+<uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+<uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"/>
+<uses-permission android:name="android.permission.READ_CALL_LOG"/>
+<uses-permission android:name="android.permission.CAPTURE_VIDEO_OUTPUT"/>
+<uses-permission android:name="android.permission.RECORD_AUDIO"/>
+<uses-permission android:name="android.permission.GET_PACKAGE_SIZE"/>
+<uses-permission android:name="android.permission.CALL_PHONE"/>
+<uses-permission android:name="android.permission.USES_POLICY_FORCE_LOCK"/>
+<uses-permission android:name="android.permission.BATTERY_STATS"/>
+<uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+<uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT"/>
+<uses-permission android:name="android.permission.REORDER_TASKS"/>
+<uses-permission android:name="android.permission.REQUEST_COMPANION_RUN_IN_BACKGROUND"/>
+<uses-permission android:name="android.permission.REQUEST_COMPANION_USE_DATA_IN_BACKGROUND"/>
+<uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/>
+<uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/>
+<uses-permission android:name="com.android.launcher2.permission.READ_SETTINGS"/>
+<uses-permission android:name="com.android.launcher2.permission.WRITE_SETTINGS"/>
+<uses-permission android:name="com.android.launcher3.permission.READ_SETTINGS"/>
+<uses-permission android:name="com.android.launcher3.permission.WRITE_SETTINGS"/>
+

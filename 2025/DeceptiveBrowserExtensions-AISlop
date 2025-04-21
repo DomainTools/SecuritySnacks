@@ -1,0 +1,32 @@
+This report highlights a network of approximately 20 newly registered websites intended to lure people to install new browser extensions from the google store. The domains and extensions were likely created by a single author, which exhibit patterns of deceptive practices and potential security risks. While the extensions do not display overtly malicious behavior, their design choices raise concerns regarding user privacy and data security.
+
+The full investigation can be found at https://dti.domaintools.com
+
+
+IOC Domains
+
+164.90.199[.]205
+ai-chat-bot[.]pro
+ai-sentence-rewriter[.]com
+pdf-to-jpg[.]app
+vat-tax-calculator[.]app
+clothingbrandnamegenerator[.]app
+htmlvalidator[.]app
+cmschecker[.]app
+hourlytosalarycalculator[.]app
+cssvalidator[.]app
+hourlysalarycalculator[.]pro
+danceclasses[.]pro
+email-checker[.]pro
+thesaurusonline[.]pro
+bitcoin-price[.]live
+bitcoinpricelive[.]app
+u99[.]pro
+devext[.]info
+websitemonitoring[.]pro
+aiwriter[.]expert
+aiwriteronline[.]pro
+aiadgenerator[.]app
+headlinegenerator[.]app
+sqlitebrowser[.]app
+
